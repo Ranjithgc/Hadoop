@@ -1,0 +1,4 @@
+As we are living in the digital era there is a data explosion. 
+The data is getting generated at a very high speed and high volume. 
+So there is an increasing need to manage this Big Data.
+
