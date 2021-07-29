@@ -1,8 +1,21 @@
+"""
+@Author: Ranjith G C
+@Date: 2021-07-28
+@Last Modified by: Ranjith G C
+@Last Modified time: 2021-07-28 
+@Title : Program Aim is to work with Hadoop commands.
+"""
+
 import subprocess
 
 def run_cmd(args_list):
         """
-        run linux commands
+        Description:
+                run linux commands.
+        Parameter: 
+                it takes args_list as parameter.
+        Return:
+                it returns s_return, s_output, s_err.
         """
         print('Running system command: {0}'.format(' '.join(args_list)))
         proc = subprocess.Popen(args_list, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
