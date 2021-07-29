@@ -1,4 +1,10 @@
-#!/usr/bin/env python
+"""
+@Author: Ranjith G C
+@Date: 2021-07-28
+@Last Modified by: Ranjith G C
+@Last Modified time: 2021-07-28 
+@Title : Program Aim is to work with word count by using mapper.
+"""
 
 # import sys because we need to read and write data to STDIN and STDOUT
 import sys
