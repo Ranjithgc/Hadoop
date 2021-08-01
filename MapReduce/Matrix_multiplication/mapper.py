@@ -1,3 +1,11 @@
+"""
+@Author: Ranjith G C
+@Date: 2021-07-28
+@Last Modified by: Ranjith G C
+@Last Modified time: 2021-07-28 
+@Title : Program Aim is to work with matrix multiplication by using mapper.
+"""
+
 #!/usr/bin/env python
 
 import sys
