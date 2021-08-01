@@ -1,4 +1,12 @@
-#!/usr/bin/env python3
+"""
+@Author: Ranjith G C
+@Date: 2021-07-31
+@Last Modified by: Ranjith G C
+@Last Modified time: 2021-07-31 
+@Title : Program Aim is to work with length of each word by using reducer.
+"""
+
+#!/usr/bin/env python
   
 from operator import itemgetter
 import sys

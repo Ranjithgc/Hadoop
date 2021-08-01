@@ -1,8 +1,8 @@
 """
 @Author: Ranjith G C
-@Date: 2021-07-28
+@Date: 2021-07-31
 @Last Modified by: Ranjith G C
-@Last Modified time: 2021-07-28 
+@Last Modified time: 2021-07-31 
 @Title : Program Aim is to work with length of each word count using mapper.
 """
 
