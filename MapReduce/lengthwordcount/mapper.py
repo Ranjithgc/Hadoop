@@ -1,4 +1,12 @@
-#!/usr/bin/env python3
+"""
+@Author: Ranjith G C
+@Date: 2021-07-28
+@Last Modified by: Ranjith G C
+@Last Modified time: 2021-07-28 
+@Title : Program Aim is to work with length of each word count using mapper.
+"""
+
+#!/usr/bin/env python
   
 # import sys because we need to read and write data to STDIN and STDOUT
 import sys
@@ -16,4 +24,4 @@ for line in sys.stdin:
         # write the results to STDOUT (standard output);
         # what we output here will be the input for the
         # Reduce step, i.e. the input for reducer.py
-	print ('%s\t%s' % (len(word), 1))
+	print("%s\t%s" % (len(word), 1))
